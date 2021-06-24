@@ -1,0 +1,15 @@
+{
+  "name": "app-error-manager",
+  "version": "1.0.0",
+  "description": "Building errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Minh Nguyễn",
+  "license": "ISC",
+  "dependencies": {
+    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#e6314ed92bc7874340037f46806eb6f7c9365862"
+  }
+}
