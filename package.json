@@ -1,15 +1,18 @@
 {
   "name": "app-error-manager",
   "version": "1.0.0",
-  "description": "Building errors",
+  "description": "Building errors manager",
+  "homepage": "https://github.com/NguyenPhuocMinh/winext-error-manager",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "winext"
+  ],
   "author": "Minh Nguyễn",
   "license": "ISC",
   "dependencies": {
-    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#e6314ed92bc7874340037f46806eb6f7c9365862"
+    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#ed9e422880aed47c025f287295c3f452e804c6f7"
   }
 }
