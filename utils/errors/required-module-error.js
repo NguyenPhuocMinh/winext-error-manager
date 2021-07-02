@@ -8,6 +8,6 @@ class RequiredModuleError extends BaseError {
     this.name = 'RequiredModuleError';
     this.message = `Please install ${module} in your package`;
   }
-};
+}
 
 module.exports = RequiredModuleError;

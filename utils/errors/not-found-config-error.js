@@ -6,9 +6,9 @@ class NotFoundConfigError extends BaseError {
   constructor(message) {
     super(message);
 
-    this.name = 'ConfigNotFound'
+    this.name = 'ConfigNotFound';
     this.message = message;
   }
-};
+}
 
 module.exports = NotFoundConfigError;

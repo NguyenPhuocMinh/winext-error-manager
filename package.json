@@ -14,5 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#ed9e422880aed47c025f287295c3f452e804c6f7"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
   }
 }

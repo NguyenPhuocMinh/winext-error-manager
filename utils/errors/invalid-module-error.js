@@ -8,6 +8,6 @@ class InvalidModuleError extends BaseError {
     this.name = 'InvalidModuleError';
     this.message = `Please config valid module name in dependencies`;
   }
-};
+}
 
 module.exports = InvalidModuleError;
