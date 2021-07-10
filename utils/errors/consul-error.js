@@ -6,7 +6,7 @@ class ConsulError extends BaseError {
   constructor(error) {
     super(error);
     this.name = 'ConsulError';
-    this.message = `Please config valid module name in dependencies`;
+    this.message = error.message;
     this.stack = error.stack;
   }
 }
