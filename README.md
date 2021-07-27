@@ -9,7 +9,6 @@
 │   └── error-manager.js
 ├── package-lock.json
 ├── package.json
-├── tree.txt
 └── utils
     ├── errors
     │   ├── base-error.js
